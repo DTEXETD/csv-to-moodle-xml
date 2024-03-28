@@ -1,0 +1,542 @@
+<quiz>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 1</text>
+      </name>
+    <questiontext format="html">
+      <text>Como declarar uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>lista = [1, 2, 3, 4]</text>
+    </answer>
+    <answer fraction= "0">
+      <text>lista = (1, 2, 3, 4)</text>
+    </answer>
+    <answer fraction= "0">
+      <text>lista = {1, 2, 3, 4}</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 2</text>
+      </name>
+    <questiontext format="html">
+      <text>Como declarar um dicionário vazio em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>dicionario = {}</text>
+    </answer>
+    <answer fraction= "0">
+      <text>dicionario = ()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>dicionario = {()}</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 3</text>
+      </name>
+    <questiontext format="html">
+      <text>Qual operador é utilizado para verificar se um elemento pertence a uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>in</text>
+    </answer>
+    <answer fraction= "0">
+      <text>not in</text>
+    </answer>
+    <answer fraction= "0">
+      <text>is</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 4</text>
+      </name>
+    <questiontext format="html">
+      <text>Como imprimir "Olá, Mundo!" em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>print("Olá, Mundo!")</text>
+    </answer>
+    <answer fraction= "0">
+      <text>echo("Olá, Mundo!")</text>
+    </answer>
+    <answer fraction= "0">
+      <text>printf("Olá, Mundo!")</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 5</text>
+      </name>
+    <questiontext format="html">
+      <text>Qual é a função da instrução "import" em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>Importar um módulo</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Excluir um módulo</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Declarar uma variável</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 6</text>
+      </name>
+    <questiontext format="html">
+      <text>O que é Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "0">
+      <text>Uma cobra</text>
+    </answer>
+    <answer fraction= "100">
+      <text>Uma linguagem de programação</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Um animal de estimação</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 7</text>
+      </name>
+    <questiontext format="html">
+      <text>Como imprimir o comprimento de uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>len(lista)</text>
+    </answer>
+    <answer fraction= "0">
+      <text>count(lista)</text>
+    </answer>
+    <answer fraction= "0">
+      <text>size(lista)</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 8</text>
+      </name>
+    <questiontext format="html">
+      <text>Qual é o operador usado para verificar se um elemento está presente em uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>in</text>
+    </answer>
+    <answer fraction= "0">
+      <text>exists</text>
+    </answer>
+    <answer fraction= "0">
+      <text>contains</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 9</text>
+      </name>
+    <questiontext format="html">
+      <text>Como acessar o segundo elemento de uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>lista[1]</text>
+    </answer>
+    <answer fraction= "0">
+      <text>lista(2)</text>
+    </answer>
+    <answer fraction= "0">
+      <text>lista{2}</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 10</text>
+      </name>
+    <questiontext format="html">
+      <text>Qual é o método utilizado para contar o número de ocorrências de um elemento em uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>count()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>occurrences()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>find()</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 11</text>
+      </name>
+    <questiontext format="html">
+      <text>Como remover um elemento específico de uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>remove()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>delete()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>discard()</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 12</text>
+      </name>
+    <questiontext format="html">
+      <text>Como criar uma função em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>def nome_da_funcao():</text>
+    </answer>
+    <answer fraction= "0">
+      <text>function nome_da_funcao():</text>
+    </answer>
+    <answer fraction= "0">
+      <text>create nome_da_funcao():</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 13</text>
+      </name>
+    <questiontext format="html">
+      <text>O que é uma exceção em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "0">
+      <text>Um erro de sintaxe</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Um comportamento esperado</text>
+    </answer>
+    <answer fraction= "100">
+      <text>Uma condição especial que altera o fluxo normal do programa</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 14</text>
+      </name>
+    <questiontext format="html">
+      <text>Como converter uma string para minúsculas em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>lower()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>toLowerCase()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>caseLower()</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 15</text>
+      </name>
+    <questiontext format="html">
+      <text>Como inverter a ordem dos elementos em uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>reverse()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>invert()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>flip()</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 16</text>
+      </name>
+    <questiontext format="html">
+      <text>Como concatenar duas listas em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>lista1 + lista2</text>
+    </answer>
+    <answer fraction= "0">
+      <text>lista1.concat(lista2)</text>
+    </answer>
+    <answer fraction= "0">
+      <text>lista1.merge(lista2)</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 17</text>
+      </name>
+    <questiontext format="html">
+      <text>Como verificar se um elemento está presente em uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "0">
+      <text>exists()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>contains()</text>
+    </answer>
+    <answer fraction= "100">
+      <text>in()</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 18</text>
+      </name>
+    <questiontext format="html">
+      <text>Qual é a principal diferença entre uma lista e uma tupla em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "0">
+      <text>As listas são mutáveis</text>
+    </answer>
+    <answer fraction= "0">
+      <text>As tuplas são imutáveis</text>
+    </answer>
+    <answer fraction= "100">
+      <text>Ambas são mutáveis</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 19</text>
+      </name>
+    <questiontext format="html">
+      <text>Qual é a função do método index() em uma lista Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>Retorna o índice do primeiro elemento com o valor especificado</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Remove o elemento no índice especificado</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Adiciona um elemento ao índice especificado</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 20</text>
+      </name>
+    <questiontext format="html">
+      <text>Como criar uma cópia superficial (shallow copy) de uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>copy()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>clone()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>duplicate()</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 21</text>
+      </name>
+    <questiontext format="html">
+      <text>O que é a PEP 8 em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "0">
+      <text>Um framework para desenvolvimento web</text>
+    </answer>
+    <answer fraction= "100">
+      <text>Um guia de estilo para a codificação em Python</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Uma biblioteca de matemática</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 22</text>
+      </name>
+    <questiontext format="html">
+      <text>Qual é a diferença entre "==" e "is" em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>== compara valores</text>
+    </answer>
+    <answer fraction= "0">
+      <text>is compara identidade de objetos</text>
+    </answer>
+    <answer fraction= "0">
+      <text>== compara identidade de objetos</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 23</text>
+      </name>
+    <questiontext format="html">
+      <text>Como criar uma matriz (lista de listas) em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>matriz = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]</text>
+    </answer>
+    <answer fraction= "0">
+      <text>matriz = {(1, 2, 3), (4, 5, 6), (7, 8, 9)}</text>
+    </answer>
+    <answer fraction= "0">
+      <text>matriz = [1, 2, 3, 4, 5, 6, 7, 8, 9]</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 24</text>
+      </name>
+    <questiontext format="html">
+      <text>Como criar um conjunto vazio em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>conjunto = set()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>conjunto = {}</text>
+    </answer>
+    <answer fraction= "0">
+      <text>conjunto = []</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 25</text>
+      </name>
+    <questiontext format="html">
+      <text>Como abrir e ler o conteúdo de um arquivo em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>with open('nome_arquivo.txt', 'r') as file: content = file.read()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>open('nome_arquivo.txt', 'r').read()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>read('nome_arquivo.txt')</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 26</text>
+      </name>
+    <questiontext format="html">
+      <text>O que significa o termo "list comprehension" em Python e como é usado?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>Uma forma concisa de criar listas</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Uma técnica para reverter listas</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Um método para acessar elementos de uma lista</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 27</text>
+      </name>
+    <questiontext format="html">
+      <text>Qual é a função do operador zip() em Python quando usado com listas?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>Combina elementos de duas ou mais listas em pares</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Calcula a soma dos elementos em duas listas</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Filtra elementos com base em uma condição</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 28</text>
+      </name>
+    <questiontext format="html">
+      <text>Como realizar a cópia profunda de uma lista em Python?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "0">
+      <text>copy()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>clone()</text>
+    </answer>
+    <answer fraction= "100">
+      <text>deepcopy()</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 29</text>
+      </name>
+    <questiontext format="html">
+      <text>Como copiar uma lista em Python sem criar uma referência ao mesmo objeto?</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>copy()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>duplicate()</text>
+    </answer>
+    <answer fraction= "0">
+      <text>clone()</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+      <name>
+          <text>Pergunta 30</text>
+      </name>
+    <questiontext format="html">
+      <text>Explique o conceito de "list comprehension" em Python.</text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction= "100">
+      <text>Uma maneira concisa de criar listas usando uma única linha de código</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Uma técnica para remover elementos duplicados de uma lista</text>
+    </answer>
+    <answer fraction= "0">
+      <text>Um método para redefinir o tamanho de uma lista</text>
+    </answer>
+  </question>
+<script/></quiz>

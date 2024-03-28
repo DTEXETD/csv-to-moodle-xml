@@ -1,0 +1,150 @@
+Como declarar uma lista em Python?
+Arrays;
+lista = [1, 2, 3, 4]; 100
+lista = (1, 2, 3, 4); 
+lista = {1, 2, 3, 4}; 
+Como declarar um dicionário vazio em Python?;
+Dicionários; 
+dicionario = {}; 100
+dicionario = (); 
+dicionario = {()}; 
+Qual operador é utilizado para verificar se um elemento pertence a uma lista em Python?;
+Operadores; 
+in; 100
+not in; 
+is;
+Como imprimir "Olá, Mundo!" em Python?;
+Saída de dados; 
+print("Olá, Mundo!"); 100
+echo("Olá, Mundo!"); 
+printf("Olá, Mundo!");
+Qual é a função da instrução "import" em Python?;
+Módulos; 
+Importar um módulo; 100
+Excluir um módulo; 
+Declarar uma variável;
+O que é Python?;
+Conceitos Básicos; 
+Uma cobra; 
+Uma linguagem de programação; 100
+Um animal de estimação;
+Como imprimir o comprimento de uma lista em Python?;
+Arrays; 
+len(lista); 100
+count(lista); 
+size(lista);
+Qual é o operador usado para verificar se um elemento está presente em uma lista em Python?;
+Operadores; 
+in; 100
+exists; 
+contains;
+Como acessar o segundo elemento de uma lista em Python?;
+Arrays; 
+lista[1]; 100
+lista(2); 
+lista{2};
+Qual é o método utilizado para contar o número de ocorrências de um elemento em uma lista em Python?;
+Métodos;
+count(); 100
+occurrences(); 
+find();
+Como remover um elemento específico de uma lista em Python?;
+Métodos; 
+remove(); 100
+delete(); 
+discard(); 
+Como criar uma função em Python?;
+Funções; 
+def nome_da_funcao():; 100
+function nome_da_funcao():; 
+create nome_da_funcao():; 
+O que é uma exceção em Python?;
+Exceções; 
+Um erro de sintaxe; 
+Um comportamento esperado; 
+Uma condição especial que altera o fluxo normal do programa; 100
+Como converter uma string para minúsculas em Python?;
+Strings; 
+lower(); 100
+toLowerCase(); 
+caseLower();
+Como inverter a ordem dos elementos em uma lista em Python?;
+Métodos; 
+reverse(); 100
+invert(); 
+flip();
+Como concatenar duas listas em Python?;
+Arrays; 
+lista1 + lista2; 100
+lista1.concat(lista2); 
+lista1.merge(lista2); 
+Como verificar se um elemento está presente em uma lista em Python?;
+Métodos; 
+exists(); 
+contains(); 
+in(); 100
+Qual é a principal diferença entre uma lista e uma tupla em Python?;
+Arrays; 
+As listas são mutáveis; 
+As tuplas são imutáveis; 
+Ambas são mutáveis; 100
+Qual é a função do método index() em uma lista Python?;
+Métodos; 
+Retorna o índice do primeiro elemento com o valor especificado; 100
+Remove o elemento no índice especificado; 
+Adiciona um elemento ao índice especificado; 
+Como criar uma cópia superficial (shallow copy) de uma lista em Python?;
+Métodos; 
+copy(); 100
+clone(); 
+duplicate();
+O que é a PEP 8 em Python?;
+Convenções de Codificação; 
+Um framework para desenvolvimento web; 
+Um guia de estilo para a codificação em Python; 100
+Uma biblioteca de matemática; 
+Qual é a diferença entre "==" e "is" em Python?;
+Operadores; 
+"==" compara valores; 100
+"is" compara identidade de objetos; 
+"==" compara identidade de objetos; 
+Como criar uma matriz (lista de listas) em Python?;
+Arrays; 
+matriz = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]; 100 
+matriz = {(1, 2, 3), (4, 5, 6), (7, 8, 9)}; 
+matriz = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+Como criar um conjunto vazio em Python?;
+Conjuntos; 
+conjunto = set(); 100
+conjunto = {}; 
+conjunto = [];
+Como abrir e ler o conteúdo de um arquivo em Python?;
+Arquivos; 
+with open('nome_arquivo.txt', 'r') as file: content = file.read(); 100
+open('nome_arquivo.txt', 'r').read(); 
+read('nome_arquivo.txt'); 
+O que significa o termo "list comprehension" em Python e como é usado?;
+Compreensão de Lista; 
+Uma forma concisa de criar listas; 100
+Uma técnica para reverter listas; 
+Um método para acessar elementos de uma lista; 
+Qual é a função do operador zip() em Python quando usado com listas?;
+Métodos; 
+Combina elementos de duas ou mais listas em pares; 100
+Calcula a soma dos elementos em duas listas; 
+Filtra elementos com base em uma condição; 
+Como realizar a cópia profunda de uma lista em Python?;
+Métodos; 
+copy(); 
+clone(); 
+deepcopy(); 100
+Como copiar uma lista em Python sem criar uma referência ao mesmo objeto?;
+Métodos; 
+copy(); 100
+duplicate(); 
+clone();
+Explique o conceito de "list comprehension" em Python.;
+List Comprehension; 
+Uma maneira concisa de criar listas usando uma única linha de código; 100
+Uma técnica para remover elementos duplicados de uma lista; 
+Um método para redefinir o tamanho de uma lista; 
